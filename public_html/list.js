@@ -106,7 +106,7 @@
         }
         return arr;
     }
-    
+
     //find region url
     function extract_url(map) {
         arr = [];
@@ -129,7 +129,7 @@
         }
         return clean_arr;
     }
-    
+
     //filter urls
     function filter_url(arr, exclude) {
         clean_arr = [];

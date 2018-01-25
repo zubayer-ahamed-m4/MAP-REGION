@@ -36,7 +36,6 @@ var simplemaps_worldmap_mapdata = {
         label_size: "",
         label_font: "",
         border_size: "1",
-        state_url: "http://www.google.com",
 
         //Advanced settings
         div: "map",
